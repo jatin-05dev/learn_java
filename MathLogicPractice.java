@@ -22,7 +22,7 @@ public class MathLogicPractice {
         } else if (num < 0) {
             System.out.println("-> It is a Negative number.");
         } else {
-            System.out.println("-> The number is Zero.");
+            Syste m.out.println("-> The number is Zero.");
         }
 
         // 3. PRIME NUMBER CHECK

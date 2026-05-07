@@ -23,6 +23,22 @@ public static void main(String[] args) {
 // Separators: ; , { }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // 2️⃣ VARIABLES & DATA TYPES
 int a = 10; // integer
 double b = 5.5; // decimal
@@ -54,6 +70,16 @@ double y = sc.nextDouble();
 System.out.print("Enter your name: ");
 sc.nextLine(); // buffer clear
 String userName = sc.nextLine();
+
+                
+
+
+
+
+
+
+
+
 
 
 // 5️⃣ DISPLAY INPUT
