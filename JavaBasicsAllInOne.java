@@ -74,6 +74,24 @@ String userName = sc.nextLine();
                 
 
 
+// 2️⃣ VARIABLES & DATA TYPES
+int a = 10; // integer
+double b = 5.5; // decimal
+char c = 'A'; // character
+boolean flag = true; // true/false
+String name = "Java"; // text
+
+
+
+
+
+// 2️⃣ VARIABLES & DATA TYPES
+int a = 10; // integer
+double b = 5.5; // decimal
+char c = 'A'; // character
+boolean flag = true; // true/false
+String name = "Java"; // text
+
 
 
 
