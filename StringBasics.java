@@ -229,6 +229,92 @@ public class StringBasics {
             System.out.println("Not Palindrome");
         }
 
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+               // 13. StringBuilder (mutable)
+        StringBuilder sb = new StringBuilder("Java");
+        sb.append(" Programming");
+        System.out.println(sb);
+
+        // 14. StringBuffer
+        StringBuffer sf = new StringBuffer("Hello");
+        sf.append(" World");
+        System.out.println(sf);
+    }
+}
+        // 13. StringBuilder (mutable)
+        StringBuilder sb = new StringBuilder("Java");
+        sb.append(" Programming");
+        System.out.println(sb);
+
+        // 14. StringBuffer
+        StringBuffer sf = new StringBuffer("Hello");
+        sf.append(" World");
+        System.out.println(sf);
+    }
+}
+        // 13. StringBuilder (mutable)
+        StringBuilder sb = new StringBuilder("Java");
+        sb.append(" Programming");
+        System.out.println(sb);
+
+        // 14. StringBuffer
+        StringBuffer sf = new StringBuffer("Hello");
+        sf.append(" World");
+        System.out.println(sf);
+    }
+}
+        // 13. StringBuilder (mutable)
+        StringBuilder sb = new StringBuilder("Java");
+        sb.append(" Programming");
+        System.out.println(sb);
+
+        // 14. StringBuffer
+        StringBuffer sf = new StringBuffer("Hello");
+        sf.append(" World");
+        System.out.println(sf);
+    }
+}
+        // 13. StringBuilder (mutable)
+        StringBuilder sb = new StringBuilder("Java");
+        sb.append(" Programming");
+        System.out.println(sb);
+
+        // 14. StringBuffer
+        StringBuffer sf = new StringBuffer("Hello");
+        sf.append(" World");
+        System.out.println(sf);
+    }
+}
+        // 13. StringBuilder (mutable)
+        StringBuilder sb = new StringBuilder("Java");
+        sb.append(" Programming");
+        System.out.println(sb);
+
+        // 14. StringBuffer
+        StringBuffer sf = new StringBuffer("Hello");
+        sf.append(" World");
+        System.out.println(sf);
+    }
+}
         // 13. StringBuilder (mutable)
         StringBuilder sb = new StringBuilder("Java");
         sb.append(" Programming");
