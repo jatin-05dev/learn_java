@@ -325,4 +325,14 @@ public class StringBasics {
         sf.append(" World");
         System.out.println(sf);
     }
+
+        // 14. StringBuffer
+        StringBuffer sf = new StringBuffer("Hello");
+        sf.append(" World");
+        System.out.println(sf);
+    }    // 14. StringBuffer
+        StringBuffer sf = new StringBuffer("Hello");
+        sf.append(" World");
+        System.out.println(sf);
+    }
 }
