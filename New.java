@@ -610,6 +610,53 @@ class IntersectionTwoPointer {
 
 
 
+class IntersectionTwoPointer {
+    public static void main(String[] args) {
+        int arr1[] = {1, 2, 3, 4, 5};
+        int arr2[] = {3, 4, 5, 6, 7};
+
+        int i = 0, j = 0;
+        int n1 = arr1.length, n2 = arr2.length;
+
+        System.out.print("Intersection: ");
+        while (i < n1 && j < n2) {
+            if (arr1[i] == arr2[j]) {
+                System.out.print(arr1[i] + " ");
+                i++;
+                j++;
+            } else if (arr1[i] < arr2[j]) {
+                i++;
+            } else {
+                j++;
+            }
+        }
+    }
+}
+class IntersectionTwoPointer {
+    public static void main(String[] args) {
+        int arr1[] = {1, 2, 3, 4, 5};
+        int arr2[] = {3, 4, 5, 6, 7};
+
+        int i = 0, j = 0;
+        int n1 = arr1.length, n2 = arr2.length;
+
+        System.out.print("Intersection: ");
+        while (i < n1 && j < n2) {
+            if (arr1[i] == arr2[j]) {
+                System.out.print(arr1[i] + " ");
+                i++;
+                j++;
+            } else if (arr1[i] < arr2[j]) {
+                i++;
+            } else {
+                j++;
+            }
+        }
+    }
+}
+
+
+
 
  
  
