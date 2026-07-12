@@ -11,6 +11,10 @@
 //smallest
 
 // import java .util.*;
+
+
+
+
 // class arrayq{
     // public static void main(String args[]){
     //    int arr[]={5,65,54,856};
@@ -19,6 +23,7 @@
     // }
 // }
 // 
+
 //optimal
 // import java .util.*;
 // class arrayq{
