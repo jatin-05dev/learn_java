@@ -19,6 +19,15 @@ public class ConditionalsDemo {
             System.out.println("Too young to vote.");
         }
 
+
+
+
+
+
+
+
+
+
         // 3. if-else if ladder (Multiple conditions)
         System.out.println("\n--- if-else if ---");
         if (score >= 90) {
